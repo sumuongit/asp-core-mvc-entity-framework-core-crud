@@ -8,6 +8,17 @@
 ## General Info
 A sample application on CRUD operation using ASP.NET Core MVC, Entity Framework Core and SQL Server 2014
 
+Some snapshots of the application are given below:
+
+**Employee List:**<br/>
+![Employee Information](https://github.com/sumuongit/asp-core-mvc-entity-framework-core-crud/blob/master/ASPCoreMVC_EFCore_CRUD/wwwroot/image/employee_info.png)
+
+**Add Employee:**<br/>
+![Add Employee](https://github.com/sumuongit/asp-core-mvc-entity-framework-core-crud/blob/master/ASPCoreMVC_EFCore_CRUD/wwwroot/image/add_employee.png)
+
+**Update Employee:**<br/>
+![Update Employee](https://github.com/sumuongit/asp-core-mvc-entity-framework-core-crud/blob/master/ASPCoreMVC_EFCore_CRUD/wwwroot/image/update_employee.png)
+
 ## Technologies
 This application is created with:
 * Visual Studio 2017
